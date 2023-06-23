@@ -11,19 +11,5 @@ It's an open-source, community-driven certification program for performance test
 
 Certification can be useful in your journey as a performance professional, but it's never an endpoint in and of itself. For too many years, professional certifictation in the tech industry has become a revenue-driven, gatekeeping boondoggle resulting in the exclusive elevation of the few or privileged. Performacology endeavors to re-invent certification for performance professionals in a much more collaborative and supportive way.
 
-
-# how it works
-Step 1
-Step 2
-Step 3
-
-
-# your next steps
-
-
-
-# become certified
-
-
-
-# about this
+# this just starting
+Visit the Discussions tab to engage in the ideas for next steps on how we do this!
