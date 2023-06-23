@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Designer/Developer: Jordan Bowman
+    https://www.papayatemplates.com
+    @jrdnbwmn
+    desk@jrdnbwmn.com
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Javascript
+    Normalize.css, Sass, Pear
