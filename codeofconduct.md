@@ -1,9 +1,3 @@
----
-id: code-of-conduct
-title: Code of Conduct
-sidebar_label: Code of Conduct
----
-
 ## Summary
 This Code of Conduct is our way to encourage good behavior and discourage bad behavior in our community. We invite participation from many people to bring different perspectives to support this project. We pledge to do our part to foster a welcoming and professional environment free of harassment. We expect participants to communicate professionally and thoughtfully during their involvement with this project. 
 
