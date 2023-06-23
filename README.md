@@ -13,17 +13,17 @@ Certification can be useful in your journey as a performance professional, but i
 
 
 # how it works
-Step 1
-Step 2
-Step 3
+Step 1 <tbd>
+Step 2 <tbd>
+Step 3 <tbd>
 
 
 # your next steps
-
-
+ <tbd>
 
 # become certified
-
+ <tbd>
 
 
 # about this
+ <tbd>
