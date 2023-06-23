@@ -1,7 +1,7 @@
 ## Summary
 This Code of Conduct is our way to encourage good behavior and discourage bad behavior in our community. We invite participation from many people to bring different perspectives to support this project. We pledge to do our part to foster a welcoming and professional environment free of harassment. We expect participants to communicate professionally and thoughtfully during their involvement with this project. 
 
-Participants may lose their good standing by engaging in misconduct. For example: insulting, threatening, or conveying unwelcome sexual content. We ask participants who observe conduct issues to report the incident directly to the Organization Owners at admins@performacology.com. We will assign a respondent to address the issue. We may remove harassers from this project. 
+Participants may lose their good standing by engaging in misconduct. For example: insulting, threatening, or conveying unwelcome sexual content. We ask participants who observe conduct issues to report the incident directly to the Organization Owners at conduct@performacology.com. We will assign a respondent to address the issue. We may remove harassers from this project. 
 
 This code does not replace the terms of service or acceptable use policies of the websites used to support this project. We acknowledge that participants may be subject to additional conduct terms based on their employment which may govern their online expressions.
 
